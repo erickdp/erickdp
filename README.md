@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi, I'm Erick 👋
 
-<!--
-**erickdp/erickdp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a machine learning engineer 🤖 and I'm passionate about creating things so clever that you think it's magic, but in reality it's pure science. I believe in free software because it allows to extend knowledge to everyone. 
 
-Here are some ideas to get you started:
+Some of the technologies in which I excel correspond to:
+Python 🐍🐍 with frameworks like FastAPI, OpenAI and generative ai APIs's.
+Java with SpringBoot 🍃☕ and gradle.
+MongoDb 
+ReactJs ⚛️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m looking to collaborate on projects that implement process automation, streamline business and improve the profitability of companies. 
+
+- 📫 How to reach me: erickdp@hotmail.com
