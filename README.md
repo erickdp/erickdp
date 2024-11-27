@@ -5,7 +5,8 @@ I'm a machine learning engineer 🤖 and I'm passionate about creating things so
 Some of the technologies in which I excel correspond to:
 * Python 🐍🐍 with frameworks like FastAPI, OpenAI and generative AI APIs.
 * Java with SpringBoot 🍃☕ and gradle.
-* MongoDB
+* MongoDB, MySQL, PosteSQL, Neo4J 📊
+* Kafka
 * ReactJs ⚛️
 * Docker
 
