@@ -6,9 +6,9 @@ Some of the technologies in which I excel correspond to:
 * Python 🐍🐍 with frameworks like FastAPI, OpenAI and generative AI APIs.
 * HuggingFaces Models 😊.
 * Java with SpringBoot 🍃☕ and gradle.
-* MongoDB, MySQL, PosteSQL, Neo4J 📊
+* MongoDB, MySQL, PostgreSQL, Neo4J 📊
 * Kafka
-* ReactJs ⚛️
+* React ⚛️
 * Docker
 
 I’m looking to collaborate on projects that implement process automation, streamline business and improve the profitability of companies. 
